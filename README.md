@@ -1,6 +1,5 @@
 # The Meteor Chef - Base
 A starting point for Meteor apps.
-
 ---
 #### Deprecation Warning
 
